@@ -7,6 +7,7 @@ exercises: 2
 :::::::::::::::::::::::::::::::::::::: questions 
 
 - How do you write a lesson using R Markdown and `{sandpaper}`?
+- Does this episode update on the GH pages website when I change this file?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
